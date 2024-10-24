@@ -9,5 +9,7 @@ I'm also comfortable working with Docker, MySQL, Python and Java.
 - 🧑‍🚀 Could talk about Doctor Who for hours
 - 🎮 I still play Minecraft
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/claudio-paloscia)
 [![Static Badge](https://img.shields.io/badge/Portfolio-darkslateblue)](https://paloscia.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/claudio-paloscia)
+[![Static Badge](https://img.shields.io/badge/Contact%20me-darkorange?logo=maildotru)](mailto:claudio@paloscia.com)
+
