@@ -7,7 +7,7 @@ I'm also comfortable working with Docker, MySQL, Python and Java.
 - 💰 I'm currently looking for a job in the US
 - 🎥 I'm passionate about the making of movies
 - 🧑‍🚀 Could talk about Doctor Who for hours
-- 🎮 I still play Minecraft
+- 🤖 Currently playing with Home Assistant
 
 [![Static Badge](https://img.shields.io/badge/Portfolio-darkslateblue)](https://paloscia.com)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/claudio-paloscia)
