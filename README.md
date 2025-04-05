@@ -1,5 +1,5 @@
 ## 👋 Hi there!
-I'm Claudio Paloscia, Software Engineer Specialist at [xAI](https://x.ai) and Co-Founder of [Freeroom](https://freeroom.digital). I graduated in Computer Science and Engineering at **Politecnico di Milano** and **University of Illinois Chicago** with a thesis about security analysis of Electron Applications, stay tuned!<br/>
+I'm Claudio Paloscia, Software Engineering Specialist at [xAI](https://x.ai) and Co-Founder of [Freeroom](https://freeroom.digital). I graduated in Computer Science and Engineering at **Politecnico di Milano** and **University of Illinois Chicago** with a thesis about security analysis of Electron Applications, stay tuned!<br/>
 My studies focused on Fullstack Development, and in particular I'm experienced with **Typescript**, **NodeJS** and **React**, but I'm always eager to try new frameworks!<br/>
 I'm also comfortable working with Docker, MySQL, Python and Java.
 
